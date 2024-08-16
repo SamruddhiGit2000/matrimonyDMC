@@ -1,0 +1,31 @@
+.login {
+    background-image: url("signup.png");
+    height: 220vh; /* Full viewport height */
+    width: 100vw;  /* Full viewport width */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Ensures the image covers the entire screen */
+    position: fixed;
+    overflow: hidden; /* Prevents unwanted scroll bars */
+    margin: 0; /* Removes default margins */
+    padding: 0; /* Removes default padding */
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .login{
+    background-image: url("C:\Users\bhushan\Desktop\matrimonyapp-react-master\src\assets\login.jpg");
+    height:max-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+} */
